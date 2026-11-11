@@ -1,4 +1,4 @@
-# Striver's DSA Sheet Solutions
+# Striver's SDE Sheet Solutions
 📝 Striver's SDE Sheet Solutions
 
 Status: 🚧 Under Progress 🚧
