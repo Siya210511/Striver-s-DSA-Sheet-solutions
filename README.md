@@ -5,8 +5,6 @@ Status: 🚧 Under Progress 🚧
 
 This repository contains my personal solutions to the problems from Striver's SDE Sheet.
 
-My goal is to master Data Structures and Algorithms by solving 110+ high-quality problems frequently asked in top-tier company interviews.
-
 Tech Stack
 Languages: C, Java
 
